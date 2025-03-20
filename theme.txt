@@ -1,6 +1,6 @@
 # Global properties
 title-text: ""
-desktop-image: "background.png"
+desktop-image: "Casper-bg.png"
 desktop-color: "#000000"
 terminal-font: "Fixedsys Regular 32"
 terminal-box: "terminal_box_*.png"
@@ -16,7 +16,7 @@ terminal-border: "0"
   top = 8%
   width = 100%
   align = "center"
-  text = "GNU GRAND UNIFIED BOOTLOADER VER 2.2"
+  text = "NERV GRAND UNIFIED BOOTLOADER VER 2.2"
   color = "#B36400"
   font = "Fixedsys Regular 32"
 }
